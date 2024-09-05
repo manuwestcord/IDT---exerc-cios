@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80c58fd7-038b-4050-b2c3-3e48a7df8714" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kthhN4g6ckYtATA2G9yMNUGNbT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.aloMundo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.10imc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.4pesoIdealSexo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.5idadeVotarECarteira.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.6classificacaoAlimento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.7categoriaNadador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.8condicaoDePagamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.9operacoesAritmeticas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.numeroInformado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.2numeroPertoRaiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConsoanteVolgal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcularAreaCirculo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.definicaoSexo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dobroAreaQuadrado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.excessoPesoPesca.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maiorDeles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.media.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ordemDecrescente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pesoIdeal2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.positivoNegativo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.possivelTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.programaTintas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raizSegundoAprofund.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raizSegundoGrau.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salarioINSS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soma.executor&quot;: &quot;Run&quot;,
+    &quot;Python.transfomadorCmParaM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.volumeEsfera.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/10927653958/OneDrive - UDESC Universidade do Estado de Santa Catarina/ExerciciosPytyhon/pythonProject&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10927653958\OneDrive - UDESC Universidade do Estado de Santa Catarina\ExerciciosPytyhon\pythonProject\exerciciosLivros" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1.aloMundo">
+    <configuration name="1.aloMundo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sequencial" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sequencial/1.aloMundo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.numeroInformado" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sequencial" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sequencial/2.numeroInformado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c58fd7-038b-4050-b2c3-3e48a7df8714" name="Changes" comment="" />
+      <created>1724108899629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724108899629</updated>
+    </task>
+    <servers />
+  </component>
+</project>
